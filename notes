@@ -1,0 +1,3 @@
+->  used 'clip path' website to shape the background of the slider window
+->  to make slider window we need to use translateX 100vw. It will shift the window 100% to right or left for positive and negative number respectively.
+-> to take items from html to js we need to use queryselector function which can take class items as input.
